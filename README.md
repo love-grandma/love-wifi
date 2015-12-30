@@ -17,7 +17,7 @@ A shortcut will be added to the Android desktop.
 Requirements: Apache Maven, JDK, Android SDK.
 
   1. Download the project:
-    `$ git clone https://github.com/yauhsien/love-wifi`
+    `$ git clone https://github.com/love-grandma/love-wifi.git`
   1. Build and get the target APK at target/love-wifi.apk.
   1. Zip-align the target APK.
   1. Sign the target APK and get a signed version.
